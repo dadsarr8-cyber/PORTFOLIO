@@ -31,9 +31,16 @@ Etudiant en Licence 3 Cybersecurite a l'Institut Superieur de Management (ISM), 
 | 5 | Investigation d'incident (SOC L1) | [rapports/ethical-hacking-soc/TP5_Investigation_incident.pdf](rapports/ethical-hacking-soc/TP5_Investigation_incident.pdf) |
 | Projet | Segmentation reseau, VPN et DMZ avec OPNsense | [rapports/ethical-hacking-soc/Projet_OPNsense_segmentation_VPN_DMZ.pdf](rapports/ethical-hacking-soc/Projet_OPNsense_segmentation_VPN_DMZ.pdf) |
 
+### Projets personnels (laboratoire autonome)
+
+| Sujet | Rapport |
+|---|---|
+| Filtrage avance et configuration du NAT avec OPNsense (alias, regles LAN/WAN, Outbound NAT, Port Forward) | [rapports/projets-personnels/Filtrage_avance_et_NAT_OPNsense.pdf](rapports/projets-personnels/Filtrage_avance_et_NAT_OPNsense.pdf) |
+| Deploiement de Suricata IDS sur OPNsense (regles ET Open/Abuse.ch, tests d'attaque depuis Kali Linux, analyse EVE JSON) | [rapports/projets-personnels/Deploiement_Suricata_IDS_OPNsense.pdf](rapports/projets-personnels/Deploiement_Suricata_IDS_OPNsense.pdf) |
+
 ## Competences demonstrees
 
-Deploiement et administration de SIEM cloud (Elastic Security), ingestion et normalisation de donnees, ecriture de regles de detection, chasse aux menaces, analyse de logiciels malveillants, forensique numerique et reponse a incident (DFIR), investigation SOC L1 avec cadre MITRE ATT&CK, segmentation reseau et durcissement de pare-feu (OPNsense, VPN, DMZ), hardening systeme Linux et audit de securite (Lynis, OpenVAS, ClamAV).
+Deploiement et administration de SIEM cloud (Elastic Security), ingestion et normalisation de donnees, ecriture de regles de detection, chasse aux menaces, analyse de logiciels malveillants, forensique numerique et reponse a incident (DFIR), investigation SOC L1 avec cadre MITRE ATT&CK, segmentation reseau et durcissement de pare-feu (OPNsense, VPN, DMZ, filtrage LAN/WAN, NAT), detection d'intrusion (Suricata IDS), hardening systeme Linux et audit de securite (Lynis, OpenVAS, ClamAV).
 
 ## Contact
 
