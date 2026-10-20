@@ -19,6 +19,7 @@ Etudiant en Licence 3 Cybersecurite a l'Institut Superieur de Management (ISM), 
 | 2 | Ingenierie de detection et chasse aux menaces | [rapports/securite-systemes-avancee/TP2_Ingenierie_detection_chasse_menaces.pdf](rapports/securite-systemes-avancee/TP2_Ingenierie_detection_chasse_menaces.pdf) |
 | 3 | Analyse de logiciels malveillants | [rapports/securite-systemes-avancee/TP3_Analyse_logiciels_malveillants.pdf](rapports/securite-systemes-avancee/TP3_Analyse_logiciels_malveillants.pdf) |
 | 4 | Forensique systeme et reponse a incident (DFIR) | [rapports/securite-systemes-avancee/TP4_Forensique_systeme_reponse_incident_DFIR.pdf](rapports/securite-systemes-avancee/TP4_Forensique_systeme_reponse_incident_DFIR.pdf) |
+| 5 | Segmentation reseau et hardening (OPNsense, Debian, audit Lynis/OpenVAS, ClamAV) | [rapports/securite-systemes-avancee/TP5_Segmentation_reseau_et_Hardening.pdf](rapports/securite-systemes-avancee/TP5_Segmentation_reseau_et_Hardening.pdf) |
 
 ### Module : Ethical Hacking et SOC
 
@@ -32,7 +33,7 @@ Etudiant en Licence 3 Cybersecurite a l'Institut Superieur de Management (ISM), 
 
 ## Competences demonstrees
 
-Deploiement et administration de SIEM cloud (Elastic Security), ingestion et normalisation de donnees, ecriture de regles de detection, chasse aux menaces, analyse de logiciels malveillants, forensique numerique et reponse a incident (DFIR), investigation SOC L1 avec cadre MITRE ATT&CK, segmentation reseau et durcissement de pare-feu (OPNsense, VPN, DMZ).
+Deploiement et administration de SIEM cloud (Elastic Security), ingestion et normalisation de donnees, ecriture de regles de detection, chasse aux menaces, analyse de logiciels malveillants, forensique numerique et reponse a incident (DFIR), investigation SOC L1 avec cadre MITRE ATT&CK, segmentation reseau et durcissement de pare-feu (OPNsense, VPN, DMZ), hardening systeme Linux et audit de securite (Lynis, OpenVAS, ClamAV).
 
 ## Contact
 
