@@ -42,4 +42,6 @@ Deploiement et administration de SIEM cloud (Elastic Security), ingestion et nor
 
 ## Contact
 
-Les coordonnees completes figurent sur le CV.
+Telephone : (+221) 76 402 81 16
+
+Email : psarr0655@gmail.com, aldioumas970@gmail.com
