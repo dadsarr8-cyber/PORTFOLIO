@@ -32,6 +32,7 @@ Etudiant en Licence 3 Cybersecurite a l'Institut Superieur de Management (ISM), 
 |---|---|---|---|
 | Pre Security | TryHackMe | 2026 | [certifications/Certification_TryHackMe_Pre_Security.pdf](certifications/Certification_TryHackMe_Pre_Security.pdf) |
 | Web Fundamentals | TryHackMe | 2025 | [certifications/Certification_TryHackMe_Web_Fundamentals.pdf](certifications/Certification_TryHackMe_Web_Fundamentals.pdf) |
+| Jr Penetration Tester | TryHackMe | 2026 | [certifications/Certification_TryHackMe_Jr_Penetration_Tester.pdf](certifications/Certification_TryHackMe_Jr_Penetration_Tester.pdf) |
 | Hack With Kali Linux | Hack With Kali Linux | 2025 | [certifications/Certification_Hack_With_Kali_Linux.pdf](certifications/Certification_Hack_With_Kali_Linux.pdf) |
 | Ethical Hacking & Cybersecurity | HackerX | 2026 | [certifications/Certification_HackerX_Ethical_Hacking_Cybersecurity.pdf](certifications/Certification_HackerX_Ethical_Hacking_Cybersecurity.pdf) |
 | Hacking Ethique | Udemy | en cours | a venir |
